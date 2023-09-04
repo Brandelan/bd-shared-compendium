@@ -4,10 +4,10 @@
   "author": "Brandon",
   "description": "A compendium that is able to be shared between worlds in FoundryVTT based on tutorial from Encounter Library https://www.youtube.com/@EncounterLibrary ",
   "url": "https://github.com/Brandelan/bd-shared-compendium",
-  "manifest": "https://github.com/Brandelan/bd-shared-compendium/module.json",
+  "manifest": "https://github.com/Brandelan/bd-shared-compendium/blob/master/module.json",
   "download": "https://github.com/Brandelan/bd-shared-compendium/releases/latest",
-  "license": "https://github.com/Brandelan/bd-shared-compendium/LICENSE",
-  "readme": "https://github.com/Brandelan/bd-shared-compendium/README.md",
+  "license": "https://github.com/Brandelan/bd-shared-compendium/blob/master/LICENSE",
+  "readme": "https://github.com/Brandelan/bd-shared-compendium/blob/master/README.md",
   "packs": [
     {
       "name": "actors",
