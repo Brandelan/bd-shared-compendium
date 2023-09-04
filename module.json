@@ -3,7 +3,7 @@
   "title": "Shared Compendium",
   "author": "Brandon",
   "description": "A compendium that is able to be shared between worlds in FoundryVTT",
-  "manifest": "",
+  "manifest": "https://github.com/Brandelan/bd-shared-compendium/releases/latest",
   "packs": [
     {
       "name": "actors",
