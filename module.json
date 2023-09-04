@@ -2,7 +2,7 @@
   "name": "shared-compendium",
   "title": "Shared Compendium",
   "author": "Brandon",
-  "description": "A compendium that is able to be shared between worlds in FoundryVTT",
+  "description": "A compendium that is able to be shared between worlds in FoundryVTT based on tutorial from Encounter Library https://www.youtube.com/@EncounterLibrary ",
   "url": "https://github.com/Brandelan/bd-shared-compendium",
   "manifest": "https://github.com/Brandelan/bd-shared-compendium/module.json",
   "download": "https://github.com/Brandelan/bd-shared-compendium/releases/latest",
