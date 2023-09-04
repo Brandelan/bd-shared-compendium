@@ -1,0 +1,95 @@
+{
+  "name": "shared-compendium",
+  "title": "Shared Compendium",
+  "author": "Brandon",
+  "description": "",
+  "packs": [
+    {
+      "name": "actors",
+      "label": "Actors",
+      "type": "Actor",
+      "system": "gurps",
+      "path": "packs/actors.db",
+      "entity": "Actor",
+      "module": "shared-compendium"
+    },
+    {
+      "name": "scenes",
+      "label": "Scenes",
+      "type": "Scene",
+      "path": "packs/scenes.db",
+      "entity": "Scene",
+      "module": "shared-compendium"
+    },
+    {
+      "name": "adventures",
+      "label": "Adventures",
+      "type": "Adventure",
+      "path": "packs/adventures.db",
+      "entity": "Adventure",
+      "module": "shared-compendium"
+    },
+    {
+      "name": "cards",
+      "label": "Cards",
+      "type": "Cards",
+      "path": "packs/cards.db",
+      "entity": "Cards",
+      "module": "shared-compendium"
+    },
+    {
+      "name": "journal-entry",
+      "label": "Journal Entry",
+      "type": "JournalEntry",
+      "path": "packs/journal-entry.db",
+      "entity": "JournalEntry",
+      "module": "shared-compendium"
+    },
+    {
+      "name": "macros",
+      "label": "Macros",
+      "type": "Macro",
+      "path": "packs/macros.db",
+      "entity": "Macro",
+      "module": "shared-compendium"
+    },
+    {
+      "name": "playlists",
+      "label": "Playlists",
+      "type": "Playlist",
+      "path": "packs/playlists.db",
+      "entity": "Playlist",
+      "module": "shared-compendium"
+    },
+    {
+      "name": "rolltables",
+      "label": "Roll Tables",
+      "type": "RollTable",
+      "path": "packs/rolltables.db",
+      "entity": "RollTable",
+      "module": "shared-compendium"
+    },
+    {
+      "name": "items",
+      "label": "Items",
+      "type": "Item",
+      "system": "gurps",
+      "path": "packs/items.db",
+      "entity": "Item",
+      "module": "shared-compendium"
+    }
+  ],
+  "id": "shared-compendium",
+  "authors": [
+    {
+      "name": "Brandon"
+    }
+  ],
+  "minimumCoreVersion": "0.8.0",
+  "compatibleCoreVersion": "0.8.0",
+  "compatibility": {
+    "minimum": 9,
+    "verified": 11
+  },
+  "version": "1.2"
+}
